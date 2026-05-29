@@ -1,8 +1,12 @@
+
 function Page() {
   return (
-    <div>
-      <h1>haha</h1>
+    <>
+    <div className="text-amber-50">
+    <h1>hello</h1>
     </div>
+    
+    </>
   )
 }
 
